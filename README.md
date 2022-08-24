@@ -1,1 +1,6 @@
-# Leetcode-Solutions
+# LeetCode
+
+### Solved problems
+
+|Number|Title|Problem|Code|
+|---|---|---|---|
